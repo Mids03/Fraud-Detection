@@ -41,14 +41,12 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 1. Clone this repository:
 
 ```bash
-Copy code
 git clone https://github.com/yourusername/Credit_Card_Fraud_Detection.git
 cd Credit_Card_Fraud_Detection
 ```
 2. Open the Jupyter Notebook:
 
 ```bash
-Copy code
 jupyter notebook Credit_Card_Fraud_Detection.ipynb
 ```
 3. Run the cells step by step to preprocess the data, train the model, and evaluate its performance.
