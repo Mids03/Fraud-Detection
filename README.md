@@ -6,6 +6,17 @@ This repository contains a Jupyter Notebook implementing a machine learning pipe
 
 Credit card fraud detection is an essential task in the financial sector. This project uses machine learning to classify transactions as fraudulent or legitimate. The notebook includes data preprocessing, exploratory data analysis, model training, and evaluation.
 
+## Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+[Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+### Dataset Details:
+- Contains 284,807 transactions, with only 492 labeled as fraudulent.
+- Highly imbalanced data.
+- Features include anonymized principal components (from PCA), transaction time, and amount.
+
 ## Files
 
 - `Credit_Card_Fraud_Detection.ipynb`: The Jupyter Notebook containing the complete code for data preprocessing, model training, and evaluation.
